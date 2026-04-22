@@ -1,1 +1,1 @@
-worker: python bb_drip_bot-1.py
+worker: python bb_drip_bot.py
